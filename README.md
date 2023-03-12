@@ -13,11 +13,9 @@
 ### Information:
 
 - Timeline:
-    - Estimate time: 10 days.
+    - Estimate time: 15 days.
 
 - Editor: Visual Studio Code.
-- Responsive: Not support responsive yet.
-
 
 
 ###  Development environment:
@@ -40,7 +38,7 @@
 - Step 1: Clone repository
   + HTTPS:
 ```bash
-git clone https://github.com/ThaoLyyy/exercises_react_r1.git
+git clone https://github.com/ThaoLyyy/react_exercises
 ```
 
 - step 2 : run project
@@ -52,6 +50,9 @@ npm start
 ```
 http://localhost:3000
 ```
+
+## WEBSITE
+   [Link](https://exercises-react-r1.vercel.app/)
 
 ###  Author
 
