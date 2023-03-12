@@ -40,7 +40,7 @@
 - Step 1: Clone repository
   + HTTPS:
 ```bash
-git clone https://github.com/ThaoLyyy/react_exercises
+git clone https://github.com/ThaoLyyy/exercises_react_r1.git
 ```
 
 - step 2 : run project
